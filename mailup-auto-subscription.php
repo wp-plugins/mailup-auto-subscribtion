@@ -5,7 +5,7 @@ Plugin Name: MailUp Auto Subscription
 
 Plugin URI: http://www.logicimage.it
 
-Description: Let users subscribe to MailUp newsletter service in the same time they register to your site.
+Description: Let users subscribe to MailUp newsletter service in the same time they're registering to your site.
 
 Author: Andrea Gherardi
 

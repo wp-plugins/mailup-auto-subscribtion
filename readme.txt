@@ -5,38 +5,40 @@ Requires at least: 3.0
 Tested up to: 4.1.1
 License: GPL 2
 
-Let users subscribe to MailUp newsletter service in the same time they register to your site.
+Let users subscribe to MailUp newsletter service in the same time they're registering to your site.
 
 == Description ==
-If you're using MailUp as newsletter service, you can register your users to it in the same time they're sign in to your site.
+If you're using MailUp as newsletter service, you can add your users to it in the same time they're registering to your site.
 You'll be able to set the MailUp List ID, Group ID and  much more.
 
-
 == Installation ==
-From your WordPress dashboard
-Visit 'Plugins > Add New'
-Search for 'MailUp Auto Subscription' and download it.
-Activate MailUp Auto Subscription from your Plugins page.
+<strong>From your WordPress dashboard</strong>
+<ul>
+<li>Visit 'Plugins > Add New'</li>
+<li>Search for 'MailUp Auto Subscription' and download it.</li>
+<li>Activate MailUp Auto Subscription from your Plugins page.</li>
+</ul>
 
-From WordPress.org
-Download MailUp Auto Subscription
-Upload the 'mailup-auto-subscription' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
-Activate MailUp Auto Subscription from your Plugins page.
-Once Activated
-Go to MailUp Auto Subscription menu and set you preferences.
-
+<strong>From WordPress.org</strong>
+<ul>
+<li>Download MailUp Auto Subscription</li>
+<li>Upload the 'mailup-auto-subscription' directory to your '/wp-content/plugins/' directory, using your favorite</li> method (ftp, sftp, scp, etc...)</li>
+<li>Activate MailUp Auto Subscription from your Plugins page.</li>
+<li>Once Activated</li>
+<li>Go to MailUp Auto Subscription menu and set you preferences.</li>
+</ul>
 
 == Frequently Asked Questions ==
-Where can I find my Endpoint/ Console ur?l
+<strong>Where can I find my Endpoint/ Console url?</strong>
 Just go to <strong>http://help.mailup.com/display/mailupapi/MailUp+API+Credentials</strong> to know how to retreive your credentials.
 
-Do I have to add a List ID?
+<strong>Do I have to add a List ID?</strong>
 Yes, you do. The list ID is mandatory because it determinate wich list o receivers the user will be added.
 
-Do I have to add a Group ID?
+<strong>Do I have to add a Group ID?</strong>
 Add a Group ID is not mandatory. If you want to add user to a specific group of receivers, you can do it by adding a Group ID.
 
-Can I subscribe user to my newsletter service without ask him for confirmation?
+<strong>Can I subscribe user to my newsletter service without ask him for confirmation?</strong>
 No, you can't. It is considered spam! Please, use one of the options provided by MailUp Auto Subscription to let user decide to receive or not your news.
 
 == Screenshots ==
@@ -44,5 +46,5 @@ No, you can't. It is considered spam! Please, use one of the options provided by
 2. MailUp Auto Subscription -Worpress register form
 
 == Changelog ==
-MailUp Auto Subscription 1.0
+1.0
 First release.
