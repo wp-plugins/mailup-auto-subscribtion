@@ -30,16 +30,16 @@ You'll be able to set the MailUp List ID, Group ID and  much more.
 </ul>
 
 == Frequently Asked Questions ==
-<strong>Where can I find my Endpoint/ Console url?</strong>
+<strong>Where can I find my Endpoint/ Console url?</strong><br>
 Just go to <strong>http://help.mailup.com/display/mailupapi/MailUp+API+Credentials</strong> to know how to retreive your credentials.
 
-<strong>Do I have to add a List ID?</strong>
+<strong>Do I have to add a List ID?</strong><br>
 Yes, you do. The list ID is mandatory because it determinate wich list o receivers the user will be added.
 
-<strong>Do I have to add a Group ID?</strong>
+<strong>Do I have to add a Group ID?</strong><br>
 Add a Group ID is not mandatory. If you want to add user to a specific group of receivers, you can do it by adding a Group ID.
 
-<strong>Can I subscribe user to my newsletter service without ask him for confirmation?</strong>
+<strong>Can I subscribe user to my newsletter service without ask him for confirmation?</strong><br>
 No, you can't. It is considered spam! Please, use one of the options provided by MailUp Auto Subscription to let user decide to receive or not your news.
 
 == Screenshots ==
