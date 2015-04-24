@@ -1,8 +1,9 @@
 === MailUp Auto Subscription ===
-Contributors: ghera74
+Contributors: ghera74, logicimage
 Tags: MailUp, Newsletter, Subscription, Groups
 Requires at least: 3.0
 Tested up to: 4.1.1
+Stable tag: 1.01
 License: GPL 2
 
 Let users subscribe to MailUp newsletter service in the same time they're registering to your site.
@@ -46,5 +47,5 @@ No, you can't. It is considered spam! Please, use one of the options provided by
 2. MailUp Auto Subscription -Worpress register form
 
 == Changelog ==
-1.0
-First release.
+1.01 - Added graphics and made small changes to readme.txt
+1.0 - First release.

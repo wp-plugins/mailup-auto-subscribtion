@@ -9,7 +9,7 @@ Description: Let users subscribe to MailUp newsletter service in the same time t
 
 Author: Andrea Gherardi
 
-Version: 1.0
+Version: 1.01
 
 Author URI: http://www.logicimage.it
 
