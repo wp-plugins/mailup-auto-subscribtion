@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailUp Auto Subscription\n"
+"POT-Creation-Date: 2015-04-20 12:15+0100\n"
+"PO-Revision-Date: 2015-04-20 12:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: Logic Image <andrea.gherardi@logicimage.it>\n"
+"Language: ITA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /applications/MAMP/htdocs/mtb/wp-content/plugins/"
+"mailup-auto-subscription\n"
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/mailup-auto-subscription.php:40
+msgid "It looks like you do not have sufficient permissions to view this page."
+msgstr ""
+"Sembra che tu non abbia i permessi sufficienti per visualizzare questa "
+"pagina."
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/mailup-auto-subscription.php:47
+msgid ""
+"Register your users to MailUp in the same time they subscribe to your site."
+msgstr ""
+"Iscrivi i tuoi utenti a MailUp nello stesso momento in cui si iscrivono al "
+"tuo sito."
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/mailup-auto-subscription.php:48
+msgid ""
+"Enter the Host of your console, choose the list and if necessary the group "
+"created in MailUp, nothing else."
+msgstr ""
+"Inserisci l'Host della tua console, scegli la lista e se necessario il "
+"gruppo creato in MailUp, nient'altro."
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/mailup-auto-subscription.php:93
+msgid ""
+"<strong>ATTENTION!</strong> Sending newsletter without user confirmation is "
+"considered spam."
+msgstr ""
+"<strong>ATTENZIONE!</strong> L'invio di newsletter senza il consenso "
+"dell'utente è considerato spam."
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/includes/mas-admin-form.php:7
+msgid "Endpoint/ Console url"
+msgstr ""
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/includes/mas-admin-form.php:10
+msgid ""
+"Do you need help? Click <a href=\"http://help.mailup.com/display/mailupapi/"
+"MailUp+API+Credentials\" target=\"_blank\">here</a>"
+msgstr ""
+"Hai bisogno d'aiuto? Clicca <a href=\"http://help.mailup.com/display/"
+"mailupapi/MailUp+API+Credentials\" target=\"_blank\">qui</a>"
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/includes/mas-admin-form.php:15
+msgid "MailUp List ID"
+msgstr "ID lista MailUp"
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/includes/mas-admin-form.php:18
+msgid "Enter the ID of the list which you want to register your users."
+msgstr "Inserisci l'ID della lista a cui vuoi iscrivere i tuoi utenti."
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/includes/mas-admin-form.php:23
+msgid "MailUp Group ID"
+msgstr "ID gruppo MailUp"
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/includes/mas-admin-form.php:26
+msgid ""
+"If you want to add users to a specific MailUp group, enter here the correct "
+"ID."
+msgstr ""
+"Se vuoi aggiungere gli utenti ad un gruppo di destinatari specifico, "
+"inserisci qui l'ID corretto."
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/includes/mas-admin-form.php:31
+msgid "Confirm"
+msgstr "Conferma"
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/includes/mas-admin-form.php:42
+msgid "Send MailUp register confirmation"
+msgstr "Invia richiesta di conferma iscrizione di MailUp"
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/includes/mas-admin-form.php:49
+msgid "Registration form"
+msgstr "Form di registrazione"
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/includes/mas-admin-form.php:60
+msgid "Newsletter option in the registration form"
+msgstr "Opzione Newsletter nel form di registrazione"
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/includes/mas-admin-form.php:68
+msgid "Save changes"
+msgstr "Salva le modifiche"
+
+#: /applications/MAMP/htdocs/mtb/wp-content/plugins/mailup-auto-subscription/includes/mas-register-form.php:10
+msgid "Newsletter subscriptions"
+msgstr "Iscrizione Newsletter"
+
+#~ msgid ""
+#~ "Sembra che tu non abbia i permessi sufficienti per visualizzare questa "
+#~ "pagina."
+#~ msgstr ""
+#~ "It looks like you do not have sufficient permissions to view this page."
+
+#~ msgid ""
+#~ "Iscrivi i tuoi utenti a MailUp nello stesso momento in cui si iscrivono "
+#~ "al tuo sito."
+#~ msgstr ""
+#~ "Register your users to MailUp in the same time they subscribe to your "
+#~ "site."
+
+#~ msgid ""
+#~ "ATTENZIONE!</strong> L'invio di newsletter senza il consenso dell'utente "
+#~ "è considerato spam."
+#~ msgstr ""
+#~ "BECAREFULL! </ Strong> Sending newsletter without user confirmation is "
+#~ "considered spam."
+
+#~ msgid "ID lista MailUp"
+#~ msgstr "MailUp List ID"
+
+#~ msgid "Inserisci l'ID della lista a cui vuoi iscrivere i tuoi utenti."
+#~ msgstr "Enter the ID of the list which you want to register your users."
+
+#~ msgid "ID gruppo MailUp"
+#~ msgstr "MailUp Group ID"
+
+#~ msgid ""
+#~ "Se vuoi aggiungere gli utenti ad un gruppo di destinatari specifico, "
+#~ "inserisci qui l'ID corretto."
+#~ msgstr ""
+#~ "If you want to add users to a specific MailUp group, enter here the "
+#~ "correct ID."
+
+#~ msgid "Invia richiesta di conferma iscrizione di MailUp"
+#~ msgstr "Send MailUp register confirmation"
+
+#~ msgid "Form di registrazione"
+#~ msgstr "Registration form"
+
+#~ msgid "Salva le modifiche"
+#~ msgstr "Save changes"
+
+#~ msgid "Iscrizione Newsletter"
+#~ msgstr "Newsletter subscriptions"
