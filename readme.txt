@@ -47,5 +47,5 @@ No, you can't. It is considered spam! Please, use one of the options provided by
 2. MailUp Auto Subscription -Worpress register form
 
 == Changelog ==
-1.01 - Added graphics and made small changes to readme.txt
+1.01 - Added graphics and made small changes to readme.txt<br>
 1.0 - First release.
